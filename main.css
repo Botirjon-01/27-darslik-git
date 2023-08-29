@@ -21,3 +21,7 @@ ul{
     justify-content: space-around;
 
 }
+.blog{
+    width: 100%;
+    height: 100vh;
+}
